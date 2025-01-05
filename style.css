@@ -1,0 +1,58 @@
+body{
+  background-color: beige;
+}
+  
+ h1{text-align: center;
+  font-size: 35px;
+  color: rgb(51, 113, 220);
+  background: rgb(223, 195, 221);
+ 
+}
+p{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  margin: 15px 15px;
+}
+.border1{
+  border-style: dashed;
+  color: blue;
+  border-color: rgb(87, 50, 6);
+}
+.border2{
+  border-style: dotted;
+  border-color: blueviolet;
+}
+.border3{
+  border-style: double;
+}
+.border4{
+  border-style: solid;
+}
+.border5{
+  border-style: groove;
+}
+.border6{
+  border-style:outset;
+}
+.border7{
+  border-style:outset;
+  border-color: brown;
+}
+.border8{
+  border-style: ridge;
+}
+div{
+  padding: 15px 15px;
+  margin: 10px 10px;
+  background-color: rgb(194, 159, 226);
+  height: auto;
+  width: 40%;
+  border: 20px solid rgb(124, 173, 124);
+}
+img{
+  height: 300px;
+  width: 350px;
+  
+}
+
+  
